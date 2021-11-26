@@ -1,4 +1,4 @@
-# LICENSE
+# NonComercial License
 
 Copyright (c) 2021 Vincent Jose, Alex
 
